@@ -62,7 +62,7 @@
 <br><br>
 <h2 align="left">🌟 GitHub Trophies:</h2>
 <hr size="2" width="55%" color="yellow"> 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=se-laps&theme=radical&no-frame=false&no-bg=true&margin-w=6" alt="se-laps" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=se-laps&theme=radical&no-frame=false&no-bg=true&margin-w=6" alt="se-laps" /></a> </p>
 
 <br><br>
 <h2 align="left">🥤 Support To Me:</h2>
