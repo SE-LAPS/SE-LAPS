@@ -10,7 +10,7 @@
 <br>
 <h2 align="left">💫 About Me:</h2>
 <hr size="2" width="55%" color="yellow">  
-<img align="right" alt="coding" width="300" height="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
+<img align="right" alt="coding" width="400" height="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
 
 - 🔭 I’m currently Studying Software Engineering [NSBM Green University](https://www.nsbm.ac.lk/)
