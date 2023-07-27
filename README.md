@@ -10,13 +10,7 @@
 <br>
 <h2 align="left">💫 About Me:</h2>
 <hr size="2" width="55%" color="yellow">  
-<style>
-  .image-with-margin {
-    margin-top: 20px; /* Adjust the value to set the desired space at the top */
-  }
-</style>
-
-<img align="right" class="image-with-margin" alt="coding" width="300" height="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"> 
 
 
 
