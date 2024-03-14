@@ -19,11 +19,11 @@
 
 - 🔭 I’m currently Studying Software Engineering [NSBM Green University](https://www.nsbm.ac.lk/)
 
-- 🌱 I’m currently learning MERN **MERN STACK**
+- 🌱 I’m currently learning MERN [MERN STACK](https://www.youtube.com/@CodeShowLapZ)
 
 - 💬 Ask me about **CodeShow LapZ** [Digital CV](https://lahirusenavirathna.streamlit.app/)
 
-- 👯 I’m looking to collaborate on Github [All Projects Are In Here](https://se-laps.github.io/My-NEW-CV/)
+- 👯 I’m looking to collaborate on Github [View All Projects](https://se-laps.github.io/My-NEW-CV/)
 
 - 🤝 I’m looking for help with Youtube [CodeShow LapZ](https://www.youtube.com/@CodeShowLapZ)
 
