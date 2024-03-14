@@ -29,7 +29,7 @@
 
 - 📝 I regularly write articles on [Visit My Chanel](https://www.youtube.com/@CodeShowLapZ)
 
-- 📫 How to reach me **codeshowlapz@gmail.com**
+- 📫 How to reach me [About Me](https://about.me/codeshowlapz)
 
 - 📄 Know about my experiences [Visit My Blog](https://www.facebook.com/CodeShowLapZ)
 
