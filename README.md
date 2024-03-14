@@ -21,17 +21,17 @@
 
 - 🌱 I’m currently learning MERN **MERN STACK**
 
-- 💬 Ask me about **CodeShow LapZ** [https://lahirusenavirathna.streamlit.app/](https://lahirusenavirathna.streamlit.app/)
+- 💬 Ask me about **CodeShow LapZ** [Digital CV](https://lahirusenavirathna.streamlit.app/)
 
 - 👯 I’m looking to collaborate on Github [All Projects Are In Here](https://se-laps.github.io/My-NEW-CV/)
 
 - 🤝 I’m looking for help with Youtube [CodeShow LapZ](https://www.youtube.com/@CodeShowLapZ)
 
-- 📝 I regularly write articles on [https://www.youtube.com/@CodeShowLapZ](https://www.youtube.com/@CodeShowLapZ)
+- 📝 I regularly write articles on [Visit My Chanel](https://www.youtube.com/@CodeShowLapZ)
 
 - 📫 How to reach me **codeshowlapz@gmail.com**
 
-- 📄 Know about my experiences [https://www.facebook.com/CodeShowLapZ](https://www.facebook.com/CodeShowLapZ)
+- 📄 Know about my experiences [Visit My Blog](https://www.facebook.com/CodeShowLapZ)
 
 <br><br>
 ### Blogs posts
