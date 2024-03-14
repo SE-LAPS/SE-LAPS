@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://www.youtube.com/@CodeShowLapZ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&style=for-the-badge" alt="@CodeShowLapZ" /></a> </p>
 <p align="left"> <a href="https://linkedin.com/in/lahiru-senavirathna-39b11a215" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&style=for-the-badge" alt="Lahiru Senavirathna" /></a> </p>
 <p align="left"> <a href="https://facebook.com/CodeShowLapZ?mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&style=for-the-badge" alt="@CodeShowLapZ" /></a> </p>
-<p align="left"> <a href="https://twitter.com/LahiruSenavira5?s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&style=for-the-badge" alt="Lahiru Senavirathna Twitter" /></a> </p>
+<p align="left"> <a href="https://twitter.com/LahiruSenavira5?s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&style=for-the-badge" alt="@LahiruSenavira5?" /></a> </p>
 
 
 <br>
