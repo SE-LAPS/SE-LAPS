@@ -27,7 +27,7 @@
 
 - 🤝 I’m looking for help with Youtube [CodeShow LapZ](https://www.youtube.com/@CodeShowLapZ)
 
-- 📝 I regularly write articles on [Visit My Chanel](https://www.youtube.com/@CodeShowLapZ)
+- 📝 I regularly write articles on [Visit My Chanel](https://se-laps.github.io/My-NEW-CV/)
 
 - 📫 How to reach me [About Me](https://about.me/codeshowlapz)
 
