@@ -16,15 +16,15 @@
 
 - 🔭 I’m currently Studying Software Engineering [NSBM Green University](https://www.nsbm.ac.lk/)
 
-- 🌱 I’m currently learning Flutter & React Js **Flutter Dev & React Js**
+- 🌱 I’m currently learning MERN **MERN STACK**
 
-- 👯 I’m looking to collaborate on Github [All Projects Are In Here](https://github.com/SE-LAPS)
+- 💬 Ask me about **CodeShow LapZ** [https://lahirusenavirathna.streamlit.app/](https://lahirusenavirathna.streamlit.app/)
+
+- 👯 I’m looking to collaborate on Github [All Projects Are In Here](https://se-laps.github.io/My-NEW-CV/)
 
 - 🤝 I’m looking for help with Youtube [CodeShow LapZ](https://www.youtube.com/@CodeShowLapZ)
 
 - 📝 I regularly write articles on [https://www.youtube.com/@CodeShowLapZ](https://www.youtube.com/@CodeShowLapZ)
-
-- 💬 Ask me about **CodeShow LapZ**
 
 - 📫 How to reach me **codeshowlapz@gmail.com**
 
