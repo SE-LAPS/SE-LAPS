@@ -3,14 +3,13 @@
 <h3 align="center">A Passionate Software Engineer from Sri-Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=se-laps&label=Profile%20views&color=0e75b6&style=flat" alt="se-laps" /> </p>
-
+<br>
 <p align="left"> <a href="https://dev.to/lapz" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&style=for-the-badge" alt="CodeShowLapZ Dev.to Profile" /></a> </p>
 <p align="left"> <a href="https://www.youtube.com/@CodeShowLapZ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&style=for-the-badge" alt="@CodeShowLapZ" /></a> </p>
 <p align="left"> <a href="https://linkedin.com/in/lahiru-senavirathna-39b11a215" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&style=for-the-badge" alt="Lahiru Senavirathna" /></a> </p>
 <p align="left"> <a href="https://about.me/codeshowlapz" target="_blank"><img src="https://img.shields.io/badge/About.me-00A98F?logo=About.me&style=for-the-badge" alt="CodeShowLapZ About.me" /></a> </p>
 <p align="left"> <a href="https://facebook.com/CodeShowLapZ?mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&style=for-the-badge" alt="@CodeShowLapZ" /></a> </p>
 <p align="left"> <a href="https://lahirusenavirathna.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&style=for-the-badge" alt="Lahiru Senavirathna Website" /></a> </p>
-
 <br>
 <h2 align="left">💫 About Me:</h2>
 <hr size="2" width="55%" color="yellow">  
