@@ -49,7 +49,7 @@
 
 <a href="mailto:lahiruprasangika2018@gmail.com" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
-</a> G-mail my address is lahiruprasangika2018@gmail.com
+</a>
 
 <a href="https://codesandbox.com/codeshow_lapz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codeshow_lapz" height="30" width="40" /></a>
 <a href="https://fb.com/CodeShow_LapZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codeshow_lapz" height="30" width="40" /></a>
