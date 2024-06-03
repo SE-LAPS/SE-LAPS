@@ -77,20 +77,15 @@
 <br><br><br>
 
 <div style="background-color: black;">
-    <h2 align="left">✍ GitHub Stats:</h2>
-    <hr size="2" width="55%" color="yellow"> 
+h2 align="left">✍ GitHub Stats:</h2>
+<hr size="2" width="55%" color="yellow"> 
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SE-LAPS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-
-    <br><br>
-
-    <img src="https://github-readme-stats.vercel.app/api?username=SE-LAPS&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-
-    <br><br>
-
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SE-LAPS&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SE-LAPS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</p>
+<br><br>
+![](https://github-readme-stats.vercel.app/api?username=SE-LAPS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)</p>
+<br><br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SE-LAPS&theme=dark&hide_border=false)
 </div>
-
 
 <br><br>
 <h2 align="left">✅Dev Quote:</h2>
