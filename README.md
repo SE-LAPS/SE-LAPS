@@ -61,7 +61,16 @@
 <h2 align="left">💻 Languages and Tools:</h2>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=Python,AI,ML,mongodb,express%20js,react%20js,node%20js,c%23,cloud,nlp,js,java,react,nodejs,php,py,dart,flutter,c,cs,dotnet,azure,git,github,tailwind,bootstrap,mysql,firebase,figma&theme=dark&perline=13" alt="Skill Icons" />
+      <img src="https://skillicons.dev/icons?i=Python,AI,ML,mongodb,express%20js,react%20js,node%20js,c%23,cloud&theme=dark&perline=3" alt="Skill Icons" />
+    </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nlp,js,java,react,nodejs,php,py,dart&theme=dark&perline=3" alt="Skill Icons" />
+    </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=flutter,c,cs,dotnet,azure,git&theme=dark&perline=3" alt="Skill Icons" />
+    </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=github,tailwind,bootstrap,mysql,firebase,figma&theme=dark&perline=3" alt="Skill Icons" />
     </a>
   </p>
 
