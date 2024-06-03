@@ -61,7 +61,7 @@
 <h2 align="left">💻 Languages and Tools:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,php,py,dart,flutter,c,cs,dotnet,azure,git,github,tailwind,bootstrap,mysql,firebase,idea,eclipse,androidstudio,vscode,visualstudio,figma&theme=dark&perline=13"/>
+<img src="https://skillicons.dev/icons?i=Python,AI,ML,mongodb,express js, react js, node js, c#, cloud, nlp,js,java,react,nodejs,php,py,dart,flutter,c,cs,dotnet,azure,git,github,tailwind,bootstrap,mysql,firebase,figma&theme=dark&perline=13"/>
  </a>
 </p>
 
