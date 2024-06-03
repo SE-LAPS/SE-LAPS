@@ -40,7 +40,7 @@
 
 <h2 align="left">🌐 Connect with me:</h2>
 <hr size="2" width="55%" color="yellow"> 
-<p align="left">
+<p align="center">
 <a href="https://codepen.io/codeshow_lapz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codeshow_lapz" height="30" width="40" /></a>
 <a href="https://dev.to/codeshow_lapz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codeshow_lapz" height="30" width="40" /></a>
 <a href="https://twitter.com/@lahirusenavira5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lahirusenavira5" height="30" width="40" /></a>
