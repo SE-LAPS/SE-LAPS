@@ -61,7 +61,7 @@
 <h2 align="left">💻 Languages and Tools:</h2>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=angular,aws,azure,blender,bootstrap,c,cs,cpp,cmake,dart,debian,django,dotnet,express,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,gradle,idea,ai,java,js,jquery,kali,kotlin,laravel,linux,matlab,mongodb,mysql,nestjs,nextjs,nodejs,npm,php,postman,py,r,react,sqlite,selenium,swift,tailwind,tensorflow,ubuntu,vue,yarn,figma&theme=dark&perline=13" alt="Skill Icons" />
+<img src="https://skillicons.dev/icons?i=angular,aws,azure,blender,bootstrap,c,cs,cpp,cmake,dart,debian,django,dotnet,express,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,gradle,idea,java,js,jquery,kali,kotlin,laravel,linux,matlab,mongodb,mysql,nestjs,nextjs,nodejs,npm,php,postman,py,r,react,sqlite,selenium,swift,tailwind,tensorflow,ubuntu,vue,yarn,figma&theme=dark&perline=13" alt="Skill Icons" />
 </a>
 </p>
 
