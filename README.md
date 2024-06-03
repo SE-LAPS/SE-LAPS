@@ -60,10 +60,10 @@
 <br><br>
 <h2 align="left">💻 Languages and Tools:</h2>
 <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=Python,AI,ML,mongodb,express%20js,react%20js,node%20js,c%23,cloud,nlp,js,java,react,nodejs,php,py,dart,flutter,c,cs,dotnet,azure,git,github,tailwind,bootstrap,mysql,firebase,figma&theme=dark&perline=13" alt="Skill Icons" />
-    </a>
-  </p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=angular,apple,aws,azure,blender,bootstrap,c,cs,cpp,cmake,dart,debian,discord,django,dotnet,express,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,gmail,gradle,idea,ai,java,js,jquery,kali,kotlin,laravel,linux,matlab,mongodb,mysql,nestjs,netlify,nextjs,nodejs,npm,php,postman,py,r,react,sqlite,selenium,swift,tailwind,tensorflow,ubuntu,vue,webflow,yarn,figma&theme=dark&perline=13" alt="Skill Icons" />
+</a>
+</p>
 
 <br><br>
 <h2 align="left">🌟 GitHub Trophies:</h2>
