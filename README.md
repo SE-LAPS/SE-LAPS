@@ -12,37 +12,6 @@
 <p align="left"> <a href="https://lahirusenavirathna.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&style=for-the-badge" alt="Lahiru Senavirathna Website" /></a> </p>
 <br>
 
-<style>
-.badge-container {
-  position: relative;
-  height: 100vh; /* Set the height of the container to the full viewport height */
-  overflow-x: hidden; /* Hide horizontal scrollbars */
-  overflow-y: auto; /* Enable vertical scrolling */
-  perspective: 1px; /* Set the perspective for the 3D effect */
-}
-
-.badge-container > * {
-  position: relative;
-  transform-style: preserve-3d; /* Ensure 3D transformations are applied correctly */
-}
-
-/* Apply the parallax effect to the badge links */
-.badge-container p {
-  transform: translateZ(0) scale(1); /* Set the initial position and scale */
-  transition: transform 0.5s ease; /* Add a smooth transition for the parallax effect */
-}
-
-/* Adjust the parallax effect based on scroll position */
-.badge-container p:nth-child(even) {
-  transform: translateZ(2px) scale(1.1); /* Adjust the depth and scale for even-numbered badges */
-}
-
-.badge-container p:nth-child(odd) {
-  transform: translateZ(-2px) scale(0.9); /* Adjust the depth and scale for odd-numbered badges */
-}
-
-</style>
-
 
 <h2 align="left">💫 About Me:</h2>
 <hr size="2" width="55%" color="yellow">  
