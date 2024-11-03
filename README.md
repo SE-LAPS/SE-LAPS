@@ -33,7 +33,7 @@
 
 - 📫 How to reach me [About Me](https://about.me/codeshowlapz)
 
-- 📄 Know about my experiences [Visit My Blog](https://www.facebook.com/CodeShowLapZ)
+- 📄 Know about my experiences [Visit My Blog](https://codeshow-lapz.web.app)
 
 <br><br>
 ### Blogs posts
