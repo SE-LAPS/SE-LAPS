@@ -23,13 +23,13 @@
 
 - 🌱 I’m currently learning MERN [MERN STACK](https://www.youtube.com/@CodeShowLapZ)
 
-- 💬 Ask me about **CodeShow LapZ** [Digital CV](https://lahirusenavirathna.streamlit.app/)
+- 💬 Ask me about **CodeShow LapZ** [Digital CV](https://codeshow-lapz.web.app)
 
-- 👯 I’m looking to collaborate on Github [View All Projects](https://se-laps.github.io/My-NEW-CV/)
+- 👯 I’m looking to collaborate on Github [View All Projects](https://codeshow-lapz.web.app)
 
 - 🤝 I’m looking for help with Youtube [CodeShow LapZ](https://www.youtube.com/@CodeShowLapZ)
 
-- 📝 I regularly write articles on [Visit My Chanel](https://se-laps.github.io/My-NEW-CV/)
+- 📝 I regularly write articles on [Visit My Chanel](https://codeshow-lapz.web.app)
 
 - 📫 How to reach me [About Me](https://about.me/codeshowlapz)
 
