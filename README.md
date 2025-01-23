@@ -104,8 +104,6 @@
     </a>
 </p>
 
-
-
 <br><br>
 <h2 align="left">✅Dev Quote:</h2>
 <hr size="2" width="55%" color="yellow">
