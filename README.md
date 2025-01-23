@@ -93,6 +93,24 @@
 <br><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SE-LAPS&theme=dark&hide_border=false) 
 
+
+## Activity On GitHub
+
+<p align="center">
+  <a href="https://github.com/DNXEMPIRE-1">      
+<img title="stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=DNXEMPIRE-1&theme=transparent&hide_border=true&short_numbers=true)](https://git.io/streak-stats"/>
+</a> 
+</p>
+<p align="center">
+    <a href="https://github.com/DNXEMPIRE-1">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=DNXEMPIRE-1&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
+    </a>
+</p>
+🚀 Join me on this journey of pixels, lines of code, and the occasional touch of magic! ✨
+<!--🦶FOOTER--> 
+<img src="footer.svg" width="100%">
+
+
 <br><br>
 <h2 align="left">✅Dev Quote:</h2>
 <hr size="2" width="55%" color="yellow">
