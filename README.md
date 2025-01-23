@@ -97,7 +97,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SE-LAPS&theme=dark&hide_border=false) 
 
 
-## Activity On GitHub
+## 👨‍💻Activity On GitHub
 
 <p align="center">
 </p>
@@ -106,6 +106,8 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=DNXEMPIRE-1&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
     </a>
 </p>
+
+## 👨‍💻My Contributions
 
 <br><br>
 <h2 align="left">✅Dev Quote:</h2>
