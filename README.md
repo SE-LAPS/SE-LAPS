@@ -15,7 +15,7 @@
 <h2 align="center" width="20" >
    【CodeShow LapZ】
 </h2>
-<img align="center" alt="coding" width="800" hight="50" src="https://blog.motionisland.com/wp-content/uploads/2018/04/after-effects-audio-spectrum-with-color-bar.gif"> 
+<img align="center" alt="coding" width="800" hight="50" src="https://cdn.prod.website-files.com/5fac161927bf86485ba43fd0/6229d40f625c70840c12bcd7_BlogGif_2.gif"> 
 
 
 <h2 align="left">💫 About Me:</h2>
