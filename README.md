@@ -15,6 +15,8 @@
 <h2 align="center" width="20" >
    【CodeShow LapZ】
 </h2>
+![657857332480a11898e8759599f591bf](https://github.com/user-attachments/assets/0d20a3b2-94ee-4482-b955-3653a975f746)
+
 
 <h2 align="left">💫 About Me:</h2>
 <hr size="2" width="55%" color="yellow">  
