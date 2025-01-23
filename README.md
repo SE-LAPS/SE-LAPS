@@ -15,7 +15,7 @@
 <h2 align="center" width="20" >
    【CodeShow LapZ】
 </h2>
-<img align="center" alt="coding" width="1000" src="https://i.pinimg.com/originals/65/78/57/657857332480a11898e8759599f591bf.gif"> 
+<img align="center" alt="coding" width="500" hight="100" src="https://i.pinimg.com/originals/65/78/57/657857332480a11898e8759599f591bf.gif"> 
 
 
 <h2 align="left">💫 About Me:</h2>
