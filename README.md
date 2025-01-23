@@ -112,7 +112,7 @@
      <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DNXEMPIRE-1/DNXEMPIRE-1/output/github-snake-darkBlue.svg" />
    
 <br><br>
-<h2 align="left">✅Dev Quote:</h2>
+✅Dev Quote
 <hr size="2" width="55%" color="yellow">
 <h3 align="center";color:"yellow";>◀" The Most Improtant Thing Is To Be Able To Think What You Want, Not To Say What You want "▶</h3>
 <br>
