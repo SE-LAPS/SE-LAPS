@@ -1,4 +1,4 @@
-![default](https://github.com/user-attachments/assets/ace4ab60-958b-4adc-8d47-da3c255962cc)![logo](https://github.com/SE-LAPS/SE-LAPS/blob/main/logo.png)
+![logo](https://github.com/SE-LAPS/SE-LAPS/blob/main/logo.png)
 <h1 align="center">Hi 👋, I'm CodeShow LapZ 👨‍🎓</h1>
 <h3 align="center">A Passionate 👩‍💻 Software Engineer from Sri-Lanka</h3>
 
