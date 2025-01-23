@@ -107,8 +107,10 @@
     </a>
 </p>
 
-## 👨‍💻My Contributions
-
+## ⚛My Contributions
+<a href="https://github.com/SE-LAPS">
+     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DNXEMPIRE-1/DNXEMPIRE-1/output/github-snake-darkBlue.svg" />
+   
 <br><br>
 <h2 align="left">✅Dev Quote:</h2>
 <hr size="2" width="55%" color="yellow">
