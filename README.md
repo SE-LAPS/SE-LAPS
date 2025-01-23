@@ -12,9 +12,10 @@
 <p align="center"width="330px"> <a href="https://lahirusenavirathna.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&style=for-the-badge" alt="Lahiru Senavirathna Website" /></a> </p>
 <br>
 
-<h2 align="center" width="20" >
-   【CodeShow LapZ】
+<h2 align="center" width="20">
+   <a href="https://codeshow-lapz.web.app" target="_blank">【CodeShow LapZ】</a>
 </h2>
+
 <img align="center" alt="coding" width="800" hight="50" src="https://cdn.prod.website-files.com/5fac161927bf86485ba43fd0/6229d40f625c70840c12bcd7_BlogGif_2.gif"> 
 
 
