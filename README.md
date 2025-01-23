@@ -12,6 +12,16 @@
 <p align="center"width="330px"> <a href="https://lahirusenavirathna.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&style=for-the-badge" alt="Lahiru Senavirathna Website" /></a> </p>
 <br>
 
+<h2 align="center" width="20" >
+   【Harmony Haven】
+</h2>
+<a href="https://github.com/DNXEMPIRE-1"> 
+<img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" ></a>
+<a href="https://github.com/DNXEMPIRE-1"> 
+ <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > </a>
+
+<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
+
 
 <h2 align="left">💫 About Me:</h2>
 <hr size="2" width="55%" color="yellow">  
