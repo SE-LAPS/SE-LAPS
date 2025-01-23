@@ -13,14 +13,12 @@
 <br>
 
 <h2 align="center" width="20" >
-   【Harmony Haven】
+   【CodeShow LapZ】
 </h2>
 <a href="https://github.com/DNXEMPIRE-1"> 
 <img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" ></a>
 <a href="https://github.com/DNXEMPIRE-1"> 
  <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > </a>
-
-<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 
 
 <h2 align="left">💫 About Me:</h2>
