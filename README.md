@@ -34,7 +34,20 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"> 
 
 
+## 🚀 About Me
 
+- 🔭 I'm currently Studying **Software Engineering** at [NSBM Green University](https://www.nsbm.ac.lk/)
+- 🌱 I'm currently learning **MERN Stack** - [YouTube Channel](https://www.youtube.com/@CodeShowLapZ)
+- 💬 Ask me about **CodeShow LapZ** - [Digital CV](https://codeshow-lapz.web.app)
+- 👯 I'm looking to collaborate on **GitHub Projects** - [View All Projects](https://codeshow-lapz.web.app)
+- 🤝 I'm looking for help with **YouTube Content** - [CodeShow LapZ Channel](https://www.youtube.com/@CodeShowLapZ)
+- 📝 I regularly write articles - [Visit My Website](https://codeshow-lapz.web.app)
+- 📫 How to reach me - [About Me](https://about.me/codeshowlapz)
+- 📄 Know about my experiences - [Visit My Portfolio](https://codeshow-lapz.web.app)
+
+---
+
+```json
 {
   "name": "CodeShow LapZ",
   "role": "Software Engineering Student",
@@ -53,6 +66,8 @@
   },
   "activities": ["Writing articles", "Creating educational content", "Building projects"]
 }
+```
+
 
 <br><br>
 ### Blogs posts
