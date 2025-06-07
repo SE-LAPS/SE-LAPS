@@ -77,24 +77,22 @@
 </p>
 
 <br><br>
-<h2 align="left">🌟 GitHub Trophies:</h2>
+## 🌟 GitHub Trophies:
 <hr size="2" width="55%" color="yellow"> 
 
 <!-- Top 4 Trophies -->
-<center>
-<p align="left"> 
+<p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=se-laps&theme=radical&no-frame=false&no-bg=true&margin-w=6&row=1&column=4" alt="se-laps" />
 </a> 
 </p>
 
 <!-- Bottom 5 Trophies -->
-<p align="left"> 
+<p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=se-laps&theme=radical&no-frame=false&no-bg=true&margin-w=6&row=1&column=5" alt="se-laps" />
 </a> 
 </p>
-</center>
 
 <br><br>
 <h2 align="left">🥤 Support To Me:</h2>
