@@ -68,9 +68,7 @@
 
 
 <br><br>
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h2 align="left">🌐 Connect with me:</h2>
 <hr size="2" width="55%" color="yellow"> 
@@ -169,6 +167,34 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=DNXEMPIRE-1&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
     </a>
 </p>
+
+
+## 📊 Contribution Metrics Analysis:
+<hr size="2" width="55%" color="yellow"> 
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SE-LAPS&theme=github_dark" alt="Contribution Details" width="600"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SE-LAPS&theme=github_dark" alt="Top Languages by Repo" width="300"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SE-LAPS&theme=github_dark" alt="Top Languages by Commit" width="300"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SE-LAPS&theme=github_dark" alt="GitHub Stats Summary" width="300"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SE-LAPS&theme=github_dark&utcOffset=5.5" alt="Productive Time Analysis" width="300"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br><br>
 
 ## ⚛My Contributions
 <a href="https://github.com/SE-LAPS">
