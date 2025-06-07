@@ -100,14 +100,20 @@
 <p align="center"><a href="https://www.buymeacoffee.com/CodeShow_Lapz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CodeShow_Lapz" /></a><a href="https://ko-fi.com/CodeShow_Lapz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="CodeShow_Lapz" /></a></p><br><br>
 <br><br><br>
 
-<h2 align="left">✍ GitHub Stats:</h2>
+## ✍ GitHub Stats:
 <hr size="2" width="55%" color="yellow"> 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SE-LAPS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</p>
-<br><br>
-![](https://github-readme-stats.vercel.app/api?username=SE-LAPS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)</p>
-<br><br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SE-LAPS&theme=dark&hide_border=false) 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SE-LAPS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SE-LAPS&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SE-LAPS&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
 
 ## 👨‍💻Activity On GitHub
