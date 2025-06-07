@@ -123,7 +123,7 @@
 </p>
 
 <br><br>
-<h2 align="center">🥤 Support To Me:</h2>
+## 🥤 Support To Me:
 <hr size="2" width="55%" color="yellow"> 
 
 <p align="center">
