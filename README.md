@@ -29,12 +29,10 @@
 <img align="center" alt="coding" width="800" hight="50" src="https://cdn.prod.website-files.com/5fac161927bf86485ba43fd0/6229d40f625c70840c12bcd7_BlogGif_2.gif"> 
 
 
-<h2 align="left">💫 About Me:</h2>
+## 💫 About Me:
 <hr size="2" width="55%" color="yellow">  
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"> 
 
-
-## 🚀 About Me
 
 - 🔭 I'm currently Studying **Software Engineering** at [NSBM Green University](https://www.nsbm.ac.lk/)
 - 🌱 I'm currently learning **MERN Stack** - [YouTube Channel](https://www.youtube.com/@CodeShowLapZ)
