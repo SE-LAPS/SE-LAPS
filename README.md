@@ -123,9 +123,30 @@
 </p>
 
 <br><br>
-<h2 align="left">🥤 Support To Me:</h2>
+<h2 align="center">🥤 Support To Me:</h2>
 <hr size="2" width="55%" color="yellow"> 
-<p align="center"><a href="https://www.buymeacoffee.com/CodeShow_Lapz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CodeShow_Lapz" /></a><a href="https://ko-fi.com/CodeShow_Lapz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="CodeShow_Lapz" /></a></p><br><br>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/CodeShow_Lapz"> 
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://ko-fi.com/CodeShow_Lapz"> 
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.paypal.com/paypalme/CodeShowLapz"> 
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" alt="PayPal" />
+  </a>
+  <a href="https://www.payhere.lk/CodeShowLapz"> 
+    <img src="https://img.shields.io/badge/PayHere-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIwIDEySDE2TDE0IDEwSDEwTDggMTJINFYxNEgxNkwxOCAxNkgyMlYxNEgyMFYxMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMlM2LjQ4IDIyIDEyIDIyUzIyIDE3LjUyIDIyIDEyUzE3LjUyIDIgMTIgMloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=&logoColor=white" height="50" alt="PayHere" />
+  </a>
+</p>
+
+<p align="center">
+  <em>☕ Your support helps me create more content and projects!</em>
+</p>
 <br><br><br>
 
 ## ✍ GitHub Stats:
