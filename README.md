@@ -3,19 +3,14 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi👋%2C+I'm+CodeShow+LapZ+👨‍🎓" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi 👋%2C+I'm+CodeShow+LapZ+👨‍🎓" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=A+Passionate+👩‍💻+Software+Engineer+from+Sri-Lanka;Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </h3>
 
-<style>
-@keyframes blink {
-  0%, 50% { opacity: 1; }
-  51%, 100% { opacity: 0.3; }
-}
-</style>
+
 
 <p align="center" width="150px"> <img src="https://komarev.com/ghpvc/?username=se-laps&label=Profile%20views&color=0e75b6&style=flat" alt="se-laps" /> </p>
 <br>
