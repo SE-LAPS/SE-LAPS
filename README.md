@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi👋%2C+Hi I'm+CodeShow+LapZ+👨‍🎓" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+👋%2C+I'm+CodeShow+LapZ+👨‍🎓" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
@@ -35,21 +35,24 @@
 
 
 
-- 🔭 I’m currently Studying Software Engineering [NSBM Green University](https://www.nsbm.ac.lk/)
-
-- 🌱 I’m currently learning MERN [MERN STACK](https://www.youtube.com/@CodeShowLapZ)
-
-- 💬 Ask me about **CodeShow LapZ** [Digital CV](https://codeshow-lapz.web.app)
-
-- 👯 I’m looking to collaborate on Github [View All Projects](https://codeshow-lapz.web.app)
-
-- 🤝 I’m looking for help with Youtube [CodeShow LapZ](https://www.youtube.com/@CodeShowLapZ)
-
-- 📝 I regularly write articles on [Visit My Chanel](https://codeshow-lapz.web.app)
-
-- 📫 How to reach me [About Me](https://about.me/codeshowlapz)
-
-- 📄 Know about my experiences [Visit My Blog](https://codeshow-lapz.web.app)
+{
+  "name": "CodeShow LapZ",
+  "role": "Software Engineering Student",
+  "university": "NSBM Green University",
+  "currentlyLearning": "MERN Stack",
+  "interests": ["Web Development", "Full Stack Development", "Content Creation"],
+  "links": {
+    "portfolio": "https://codeshow-lapz.web.app",
+    "youtube": "https://www.youtube.com/@CodeShowLapZ",
+    "university": "https://www.nsbm.ac.lk/",
+    "aboutMe": "https://about.me/codeshowlapz"
+  },
+  "lookingFor": {
+    "collaboration": "GitHub Projects",
+    "help": "YouTube Content Creation"
+  },
+  "activities": ["Writing articles", "Creating educational content", "Building projects"]
+}
 
 <br><br>
 ### Blogs posts
