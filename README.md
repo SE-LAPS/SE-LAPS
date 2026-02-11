@@ -34,13 +34,14 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"> 
 
 
-- 🔭 I'm currently Studying **Software Engineering** at [NSBM Green University](https://www.nsbm.ac.lk/)
+- 🔭 I'm currently Working **Lead Software Engineer** at [TechXdoZ](https://www.techxdoz.com)
 - 🌱 I'm currently learning **MERN Stack** - [YouTube Channel](https://www.youtube.com/@CodeShowLapZ)
 - 💬 Ask me about **CodeShow LapZ** - [Digital CV](https://codeshow-lapz.web.app)
 - 👯 I'm looking to collaborate on **GitHub Projects** - [View All Projects](https://codeshow-lapz.web.app)
 - 🤝 I'm looking for help with **YouTube Content** - [CodeShow LapZ Channel](https://www.youtube.com/@CodeShowLapZ)
 - 📝 I regularly write articles - [Visit My Website](https://codeshow-lapz.web.app)
 - 📫 How to reach me - [About Me](https://about.me/codeshowlapz)
+- 👨‍💻 Live My Official Site - [Lahiru Senavirathna](https://www.lahirusenavirathna.techxdoz.com)
 - 📄 Know about my experiences - [Visit My Portfolio](https://codeshow-lapz.web.app)
 
 ---
