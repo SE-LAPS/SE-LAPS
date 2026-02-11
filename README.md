@@ -49,7 +49,8 @@
 ```json
 {
   "name": "CodeShow LapZ",
-  "role": "Software Engineering Student",
+  "role": "Lead Software Engineer",
+  "company": "TechXdoZ",
   "university": "NSBM Green University",
   "currentlyLearning": "MERN Stack",
   "interests": ["Web Development", "Full Stack Development", "Content Creation"],
